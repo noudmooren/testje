@@ -1,0 +1,297 @@
+2016-05-19 09:39:04 [18364] 
+2016-05-19 09:39:04 [18364] * * * * * Start testing Database: sample * * * * *
+2016-05-19 09:39:04 [23316] Report Result OK
+2016-05-19 09:39:04 [18364] Number of threads: 10 
+2016-05-19 09:39:04 [23976] Vsn::Ng::Connections::CAsyncTcp64::CPrivate::ReadSignal[6035] - WSARecv failed with error : 10038
+2016-05-19 09:39:04 [23976] Unable to close socket 0000000000000500, error:10038
+2016-05-19 09:39:04 [23976] Unable to close socket 0000000000000500, error:10038
+2016-05-19 09:39:08 [22936] 57 - 1 - 0 - 41 
+2016-05-19 09:39:11 [22936] 59 - 1 - 0 - 38 
+2016-05-19 09:39:14 [22936] 59 - 1 - 0 - 39 
+2016-05-19 09:39:17 [22936] 59 - 1 - 0 - 38 
+2016-05-19 09:39:20 [22936] 59 - 1 - 0 - 38 
+2016-05-19 09:39:23 [22936] 60 - 1 - 0 - 38 
+2016-05-19 09:39:26 [22936] 59 - 1 - 0 - 38 
+2016-05-19 09:39:29 [22936] 59 - 1 - 0 - 38 
+2016-05-19 09:39:32 [22936] 59 - 1 - 0 - 38 
+2016-05-19 09:39:35 [22936] 60 - 1 - 0 - 38 
+2016-05-19 09:39:38 [22936] 60 - 1 - 0 - 37 
+2016-05-19 09:39:41 [22936] 60 - 1 - 0 - 37 
+2016-05-19 09:39:44 [22936] 61 - 1 - 0 - 36 
+2016-05-19 09:39:47 [22936] 58 - 1 - 0 - 39 
+2016-05-19 09:39:50 [22936] 57 - 1 - 0 - 41 
+2016-05-19 09:39:53 [22936] 57 - 1 - 0 - 41 
+2016-05-19 09:39:56 [22936] 57 - 1 - 0 - 40 
+2016-05-19 09:39:57 [19272] [ Thread: 4 ] Test open/close database 100 times, Time elapsed: 50213 ms
+2016-05-19 09:39:57 [23520] [ Thread: 9 ] Test open/close database 100 times, Time elapsed: 51288 ms
+2016-05-19 09:39:58 [19272] [ Thread: 4 ]Total cpu: 59 - 1 - 0 - 39 
+2016-05-19 09:39:58 [23520] [ Thread: 9 ]Total cpu: 59 - 1 - 0 - 39 
+2016-05-19 09:40:01 [14800] [ Thread: 1 ] Test open/close database 100 times, Time elapsed: 55859 ms
+2016-05-19 09:40:02 [21212] [ Thread: 8 ] Test open/close database 100 times, Time elapsed: 56542 ms
+2016-05-19 09:40:02 [14800] [ Thread: 1 ]Total cpu: 59 - 1 - 0 - 39 
+2016-05-19 09:40:04 [18340] [ Thread: 0 ] Test open/close database 100 times, Time elapsed: 57613 ms
+2016-05-19 09:40:04 [21212] [ Thread: 8 ]Total cpu: 59 - 1 - 0 - 39 
+2016-05-19 09:40:05 [10048] [ Thread: 6 ] Test open/close database 100 times, Time elapsed: 59136 ms
+2016-05-19 09:40:05 [18340] [ Thread: 0 ]Total cpu: 59 - 1 - 0 - 39 
+2016-05-19 09:40:06 [05600] [ Thread: 5 ] Test open/close database 100 times, Time elapsed: 59454 ms
+2016-05-19 09:40:07 [07620] [ Thread: 7 ] Test open/close database 100 times, Time elapsed: 61299 ms
+2016-05-19 09:40:07 [05600] [ Thread: 5 ]Total cpu: 58 - 1 - 0 - 39 
+2016-05-19 09:40:07 [10048] [ Thread: 6 ]Total cpu: 58 - 1 - 0 - 39 
+2016-05-19 09:40:08 [07620] [ Thread: 7 ]Total cpu: 58 - 1 - 0 - 39 
+2016-05-19 09:40:09 [12640] [ Thread: 2 ] Test open/close database 100 times, Time elapsed: 63219 ms
+2016-05-19 09:40:10 [12640] [ Thread: 2 ]Total cpu: 58 - 1 - 0 - 40 
+2016-05-19 09:40:10 [10156] [ Thread: 3 ] Test open/close database 100 times, Time elapsed: 64230 ms
+2016-05-19 09:40:11 [10156] [ Thread: 3 ]Total cpu: 57 - 1 - 0 - 40 
+2016-05-19 09:40:11 [18364] Vsn::CVsn::ExitVsnFramework - Stopping vsn.ng.framework for application test with version No versioninfo present....
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - stop accepting sessions on all portals
+2016-05-19 09:40:11 [18364] No inbound or outbound sessions pending, continue to exit the framework
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - synchronization config canceled
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - versionserver com stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - Stopping event analysis...
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - Event analysis stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - Stopping Mail...
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - Mail stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - Stopping Microsoft MQ...
+2016-05-19 09:40:11 [18364] Stop MQ sender for 0 destination(s)...
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - Microsoft MQ stopped
+2016-05-19 09:40:11 [18364] CConfigurationConnection::UnRegisterForConnection - Configuration not found for ConnectionName vsn.ng.mailproxy
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - portalv2 stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - dns stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - status stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - dbsV2 stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - dbs stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - registry stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - configuration stopped
+2016-05-19 09:40:11 [18364] Waiting for 0 Message2Kafka instances to stop
+2016-05-19 09:40:11 [18364] Message2Kafka stopped
+2016-05-19 09:40:11 [18364] Waiting for 0 producers to stop
+2016-05-19 09:40:11 [18364] Kafka producers stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - Kafka stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - fcr stopped
+2016-05-19 09:40:11 [18364] CResourceController::CPrivate::Stop - Ready
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - resourcecontroller stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - connections stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - itemoperations stopped
+2016-05-19 09:40:11 [18364] CRdc::CPrivate::Stop - Ready
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - rdc stopped
+2016-05-19 09:40:11 [18364] Vsn::Ng::CNg::Exit - vsn.ng.framework for application test and version No versioninfo present stopped.
+2016-05-19 11:22:16 [20996] 
+2016-05-19 11:22:16 [20996] * * * * * Start testing Database: sampl4 * * * * *
+2016-05-19 11:22:16 [22392] Report Result OK
+2016-05-19 11:22:16 [20996] Number of threads: 10 
+2016-05-19 11:22:16 [11296] Vsn::Ng::Connections::CAsyncTcp64::CPrivate::ReadSignal[6035] - WSARecv failed with error : 10038
+2016-05-19 11:22:16 [11296] Unable to close socket 0000000000000500, error:10038
+2016-05-19 11:22:16 [14824] Unable to close socket 0000000000000500, error:10038
+2016-05-19 11:22:18 [15488] 61 - 15 - 0 - 23 
+2016-05-19 11:22:20 [13232] [ Thread: 5 ] Test open/close database 100 times, Time elapsed: 3897 ms
+2016-05-19 11:22:20 [13232] [ Thread: 5 ]Total cpu: 61 - 15 - 0 - 22 
+2016-05-19 11:22:20 [19004] [ Thread: 7 ] Test open/close database 100 times, Time elapsed: 4005 ms
+2016-05-19 11:22:20 [19004] [ Thread: 7 ]Total cpu: 61 - 15 - 0 - 22 
+2016-05-19 11:22:20 [24404] [ Thread: 3 ] Test open/close database 100 times, Time elapsed: 4026 ms
+2016-05-19 11:22:20 [24404] [ Thread: 3 ]Total cpu: 61 - 15 - 0 - 23 
+2016-05-19 11:22:21 [11500] [ Thread: 1 ] Test open/close database 100 times, Time elapsed: 4138 ms
+2016-05-19 11:22:21 [21088] [ Thread: 2 ] Test open/close database 100 times, Time elapsed: 4179 ms
+2016-05-19 11:22:21 [11500] [ Thread: 1 ]Total cpu: 61 - 15 - 0 - 23 
+2016-05-19 11:22:21 [21088] [ Thread: 2 ]Total cpu: 61 - 15 - 0 - 23 
+2016-05-19 11:22:21 [05820] [ Thread: 0 ] Test open/close database 100 times, Time elapsed: 4231 ms
+2016-05-19 11:22:21 [05820] [ Thread: 0 ]Total cpu: 61 - 15 - 0 - 23 
+2016-05-19 11:22:21 [07656] [ Thread: 8 ] Test open/close database 100 times, Time elapsed: 3929 ms
+2016-05-19 11:22:21 [19708] [ Thread: 4 ] Test open/close database 100 times, Time elapsed: 3946 ms
+2016-05-19 11:22:21 [07656] [ Thread: 8 ]Total cpu: 61 - 15 - 0 - 23 
+2016-05-19 11:22:21 [19708] [ Thread: 4 ]Total cpu: 61 - 15 - 0 - 23 
+2016-05-19 11:22:21 [23072] [ Thread: 6 ] Test open/close database 100 times, Time elapsed: 4326 ms
+2016-05-19 11:22:21 [19220] [ Thread: 9 ] Test open/close database 100 times, Time elapsed: 4404 ms
+2016-05-19 11:22:21 [23072] [ Thread: 6 ]Total cpu: 60 - 15 - 0 - 23 
+2016-05-19 11:22:21 [19220] [ Thread: 9 ]Total cpu: 60 - 15 - 0 - 23 
+2016-05-19 11:22:21 [20996] Vsn::CVsn::ExitVsnFramework - Stopping vsn.ng.framework for application test with version No versioninfo present....
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - stop accepting sessions on all portals
+2016-05-19 11:22:21 [20996] No inbound or outbound sessions pending, continue to exit the framework
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - synchronization config canceled
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - versionserver com stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - Stopping event analysis...
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - Event analysis stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - Stopping Mail...
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - Mail stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - Stopping Microsoft MQ...
+2016-05-19 11:22:21 [20996] Stop MQ sender for 0 destination(s)...
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - Microsoft MQ stopped
+2016-05-19 11:22:21 [20996] CConfigurationConnection::UnRegisterForConnection - Configuration not found for ConnectionName vsn.ng.mailproxy
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - portalv2 stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - dns stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - status stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - dbsV2 stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - dbs stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - registry stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - configuration stopped
+2016-05-19 11:22:21 [20996] Waiting for 0 Message2Kafka instances to stop
+2016-05-19 11:22:21 [20996] Message2Kafka stopped
+2016-05-19 11:22:21 [20996] Waiting for 0 producers to stop
+2016-05-19 11:22:21 [20996] Kafka producers stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - Kafka stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - fcr stopped
+2016-05-19 11:22:21 [20996] CResourceController::CPrivate::Stop - Ready
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - resourcecontroller stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - connections stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - itemoperations stopped
+2016-05-19 11:22:21 [20996] CRdc::CPrivate::Stop - Ready
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - rdc stopped
+2016-05-19 11:22:21 [20996] Vsn::Ng::CNg::Exit - vsn.ng.framework for application test and version No versioninfo present stopped.
+2016-05-19 12:20:54 [13360] 
+2016-05-19 12:20:54 [13360] * * * * * Start testing Database: sampl4 * * * * *
+2016-05-19 12:20:54 [13360] Number of threads: 1
+2016-05-19 12:20:54 [19660] Vsn::Ng::Connections::CAsyncTcp64::CPrivate::ReadSignal[6035] - WSARecv failed with error : 10038
+2016-05-19 12:20:54 [19660] Unable to close socket 0000000000000504, error:10038
+2016-05-19 12:20:54 [03944] Unable to close socket 0000000000000504, error:10038
+2016-05-19 12:20:54 [17880] [ Thread: 1 ] verkeerde keuze
+2016-05-19 12:20:54 [17880] [ Thread: 1 ]Total cpu: 50 - 0 - 0 - 50 
+2016-05-19 12:20:56 [13360] Vsn::CVsn::ExitVsnFramework - Stopping vsn.ng.framework for application test with version No versioninfo present....
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - stop accepting sessions on all portals
+2016-05-19 12:20:56 [13360] No inbound or outbound sessions pending, continue to exit the framework
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - synchronization config canceled
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - versionserver com stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - Stopping event analysis...
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - Event analysis stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - Stopping Mail...
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - Mail stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - Stopping Microsoft MQ...
+2016-05-19 12:20:56 [13360] Stop MQ sender for 0 destination(s)...
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - Microsoft MQ stopped
+2016-05-19 12:20:56 [13360] CConfigurationConnection::UnRegisterForConnection - Configuration not found for ConnectionName vsn.ng.mailproxy
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - portalv2 stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - dns stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - status stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - dbsV2 stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - dbs stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - registry stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - configuration stopped
+2016-05-19 12:20:56 [13360] Waiting for 0 Message2Kafka instances to stop
+2016-05-19 12:20:56 [13360] Message2Kafka stopped
+2016-05-19 12:20:56 [13360] Waiting for 0 producers to stop
+2016-05-19 12:20:56 [13360] Kafka producers stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - Kafka stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - fcr stopped
+2016-05-19 12:20:56 [13360] CResourceController::CPrivate::Stop - Ready
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - resourcecontroller stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - connections stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - itemoperations stopped
+2016-05-19 12:20:56 [13360] CRdc::CPrivate::Stop - Ready
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - rdc stopped
+2016-05-19 12:20:56 [13360] Vsn::Ng::CNg::Exit - vsn.ng.framework for application test and version No versioninfo present stopped.
+2016-05-19 12:22:47 [13420] 
+2016-05-19 12:22:47 [13420] * * * * * Start testing Database: sampl4 * * * * *
+2016-05-19 12:22:47 [14560] Report Result OK
+2016-05-19 12:22:47 [13420] Number of threads: 1
+2016-05-19 12:22:47 [21972] Vsn::Ng::Connections::CAsyncTcp64::CPrivate::ReadSignal[6035] - WSARecv failed with error : 10038
+2016-05-19 12:22:47 [21972] Unable to close socket 00000000000004FC, error:10038
+2016-05-19 12:22:47 [18572] Unable to close socket 00000000000004FC, error:10038
+2016-05-19 12:22:47 [17808] [ Thread: 1 ] verkeerde keuze
+2016-05-19 12:22:47 [17808] [ Thread: 1 ]Total cpu: 33 - 33 - 0 - 33 
+2016-05-19 12:22:49 [13420] Vsn::CVsn::ExitVsnFramework - Stopping vsn.ng.framework for application test with version No versioninfo present....
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - stop accepting sessions on all portals
+2016-05-19 12:22:49 [13420] No inbound or outbound sessions pending, continue to exit the framework
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - synchronization config canceled
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - versionserver com stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - Stopping event analysis...
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - Event analysis stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - Stopping Mail...
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - Mail stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - Stopping Microsoft MQ...
+2016-05-19 12:22:49 [13420] Stop MQ sender for 0 destination(s)...
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - Microsoft MQ stopped
+2016-05-19 12:22:49 [13420] CConfigurationConnection::UnRegisterForConnection - Configuration not found for ConnectionName vsn.ng.mailproxy
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - portalv2 stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - dns stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - status stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - dbsV2 stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - dbs stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - registry stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - configuration stopped
+2016-05-19 12:22:49 [13420] Waiting for 0 Message2Kafka instances to stop
+2016-05-19 12:22:49 [13420] Message2Kafka stopped
+2016-05-19 12:22:49 [13420] Waiting for 0 producers to stop
+2016-05-19 12:22:49 [13420] Kafka producers stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - Kafka stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - fcr stopped
+2016-05-19 12:22:49 [13420] CResourceController::CPrivate::Stop - Ready
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - resourcecontroller stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - connections stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - itemoperations stopped
+2016-05-19 12:22:49 [13420] CRdc::CPrivate::Stop - Ready
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - rdc stopped
+2016-05-19 12:22:49 [13420] Vsn::Ng::CNg::Exit - vsn.ng.framework for application test and version No versioninfo present stopped.
+2016-05-19 12:24:32 [16636] 
+2016-05-19 12:24:32 [16636] * * * * * Start testing Database: sampl4 * * * * *
+2016-05-19 12:24:32 [16480] Report Result OK
+2016-05-19 12:24:32 [16636] Number of threads: 1
+2016-05-19 12:24:32 [15512] Vsn::Ng::Connections::CAsyncTcp64::CPrivate::ReadSignal[6035] - WSARecv failed with error : 10038
+2016-05-19 12:24:32 [15512] Unable to close socket 00000000000004B8, error:10038
+2016-05-19 12:24:32 [02232] Unable to close socket 00000000000004B8, error:10038
+2016-05-19 12:24:32 [18656] [ Thread: 1 ] start table server-Update from new table 10 times
+2016-05-19 12:24:34 [16172] 77 - 3 - 0 - 18 
+2016-05-19 12:24:36 [16172] 73 - 3 - 0 - 23 
+2016-05-19 12:24:38 [16172] 72 - 3 - 0 - 24 
+2016-05-19 12:24:40 [16172] 70 - 2 - 0 - 26 
+2016-05-19 12:24:42 [16172] 66 - 1 - 0 - 31 
+2016-05-19 12:24:44 [16172] 50 - 0 - 7 - 41 
+2016-05-19 12:24:46 [16172] 46 - 0 - 4 - 48 
+2016-05-19 12:24:48 [16172] 46 - 0 - 3 - 49 
+2016-05-19 12:24:50 [16172] 45 - 0 - 3 - 50 
+2016-05-19 12:24:52 [16172] 45 - 0 - 3 - 50 
+2016-05-19 12:24:54 [16172] 46 - 0 - 3 - 49 
+2016-05-19 12:24:56 [16172] 45 - 0 - 3 - 50 
+2016-05-19 12:24:58 [16172] 46 - 0 - 2 - 50 
+2016-05-19 12:25:00 [16172] 45 - 1 - 7 - 45 
+2016-05-19 12:25:02 [16172] 46 - 0 - 2 - 50 
+2016-05-19 12:25:04 [16172] 46 - 0 - 2 - 50 
+2016-05-19 12:25:06 [16172] 45 - 0 - 4 - 50 
+2016-05-19 12:25:08 [16172] 46 - 0 - 2 - 50 
+2016-05-19 12:25:10 [16172] 46 - 0 - 6 - 46 
+2016-05-19 12:25:12 [16172] 45 - 0 - 3 - 50 
+2016-05-19 12:25:14 [16172] 46 - 0 - 2 - 50 
+2016-05-19 12:25:16 [16172] 46 - 1 - 4 - 48 
+2016-05-19 12:25:18 [16172] 45 - 0 - 5 - 48 
+2016-05-19 12:25:20 [16172] 46 - 0 - 3 - 50 
+2016-05-19 12:25:22 [16172] 46 - 0 - 6 - 46 
+2016-05-19 12:25:24 [16172] 45 - 1 - 3 - 50 
+2016-05-19 12:25:26 [16172] 46 - 0 - 3 - 50 
+2016-05-19 12:25:28 [16172] 44 - 0 - 5 - 49 
+2016-05-19 12:25:30 [16172] 46 - 1 - 2 - 49 
+2016-05-19 12:25:32 [16172] 46 - 0 - 3 - 50 
+2016-05-19 12:25:34 [16172] 47 - 1 - 7 - 43 
+2016-05-19 12:25:36 [16172] 46 - 0 - 3 - 49 
+2016-05-19 12:25:38 [16172] 46 - 0 - 3 - 50 
+2016-05-19 12:25:38 [18656] [ Thread: 1 ] Test Update from new table 10 times, Time elapsed: 66463 ms
+2016-05-19 12:25:38 [18656] [ Thread: 1 ]Total cpu: 50 - 1 - 3 - 45 
+2016-05-19 12:25:40 [16636] Vsn::CVsn::ExitVsnFramework - Stopping vsn.ng.framework for application test with version No versioninfo present....
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - stop accepting sessions on all portals
+2016-05-19 12:25:40 [16636] No inbound or outbound sessions pending, continue to exit the framework
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - synchronization config canceled
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - versionserver com stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - Stopping event analysis...
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - Event analysis stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - Stopping Mail...
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - Mail stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - Stopping Microsoft MQ...
+2016-05-19 12:25:40 [16636] Stop MQ sender for 0 destination(s)...
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - Microsoft MQ stopped
+2016-05-19 12:25:40 [16636] CConfigurationConnection::UnRegisterForConnection - Configuration not found for ConnectionName vsn.ng.mailproxy
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - portalv2 stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - dns stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - status stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - dbsV2 stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - dbs stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - registry stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - configuration stopped
+2016-05-19 12:25:40 [16636] Waiting for 0 Message2Kafka instances to stop
+2016-05-19 12:25:40 [16636] Message2Kafka stopped
+2016-05-19 12:25:40 [16636] Waiting for 0 producers to stop
+2016-05-19 12:25:40 [16636] Kafka producers stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - Kafka stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - fcr stopped
+2016-05-19 12:25:40 [16636] CResourceController::CPrivate::Stop - Ready
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - resourcecontroller stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - connections stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - itemoperations stopped
+2016-05-19 12:25:40 [16636] CRdc::CPrivate::Stop - Ready
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - rdc stopped
+2016-05-19 12:25:40 [16636] Vsn::Ng::CNg::Exit - vsn.ng.framework for application test and version No versioninfo present stopped.
